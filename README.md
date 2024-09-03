@@ -1,4 +1,4 @@
-# TODOアプリ(gin x gorm)
+# TODOアプリ
 
 ・Gin  
 ・Gorm  
